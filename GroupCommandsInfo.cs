@@ -1,4 +1,7 @@
-﻿namespace CourseManangmentApp
+﻿using CourseManangmentApp.Enums;
+using CourseManangmentApp.Models;
+
+namespace CourseManangmentApp
 {
     internal class GroopCommandsAndInfo
     {

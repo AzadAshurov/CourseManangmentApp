@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\CourseManangmentApp\bin\Debug\net7.0\CourseManangmentApp.exe
+C:\Users\II novbe\Desktop\CourseManangmentApp\bin\Debug\net7.0\CourseManangmentApp.deps.json
+C:\Users\II novbe\Desktop\CourseManangmentApp\bin\Debug\net7.0\CourseManangmentApp.runtimeconfig.json
+C:\Users\II novbe\Desktop\CourseManangmentApp\bin\Debug\net7.0\CourseManangmentApp.dll
+C:\Users\II novbe\Desktop\CourseManangmentApp\bin\Debug\net7.0\CourseManangmentApp.pdb
+C:\Users\II novbe\Desktop\CourseManangmentApp\obj\Debug\net7.0\CourseManangmentApp.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\CourseManangmentApp\obj\Debug\net7.0\CourseManangmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\CourseManangmentApp\obj\Debug\net7.0\CourseManangmentApp.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\CourseManangmentApp\obj\Debug\net7.0\CourseManangmentApp.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\CourseManangmentApp\obj\Debug\net7.0\CourseManangmentApp.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\CourseManangmentApp\obj\Debug\net7.0\CourseManangmentApp.dll
+C:\Users\II novbe\Desktop\CourseManangmentApp\obj\Debug\net7.0\refint\CourseManangmentApp.dll
+C:\Users\II novbe\Desktop\CourseManangmentApp\obj\Debug\net7.0\CourseManangmentApp.pdb
+C:\Users\II novbe\Desktop\CourseManangmentApp\obj\Debug\net7.0\CourseManangmentApp.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\CourseManangmentApp\obj\Debug\net7.0\ref\CourseManangmentApp.dll

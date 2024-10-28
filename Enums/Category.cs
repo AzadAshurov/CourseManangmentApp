@@ -1,4 +1,4 @@
-﻿namespace CourseManangmentApp
+﻿namespace CourseManangmentApp.Enums
 {
     internal enum Category
     {

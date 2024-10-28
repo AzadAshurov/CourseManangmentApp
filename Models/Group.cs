@@ -1,4 +1,4 @@
-﻿namespace CourseManangmentApp
+﻿namespace CourseManangmentApp.Models
 {
     internal class Group
     {
